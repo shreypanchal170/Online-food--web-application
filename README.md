@@ -1,0 +1,1 @@
+An Online Food Ordering Web Application allows users to browse restaurants, order food, and get it delivered or pick it up. It includes customer, restaurant, and admin panels to manage orders, menus, and payments.
